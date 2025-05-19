@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\app.js",
+      "PackagePath": "staticwebassets\\front\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\index.html",
+      "PackagePath": "staticwebassets\\front\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\styles.css",
+      "PackagePath": "staticwebassets\\front\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ServicioPersonasApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ServicioPersonasApi.props",
+      "PackagePath": "build\\ServicioPersonasApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ServicioPersonasApi.props",
+      "PackagePath": "buildMultiTargeting\\ServicioPersonasApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ServicioPersonasApi.props",
+      "PackagePath": "buildTransitive\\ServicioPersonasApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

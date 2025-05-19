@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "87amkQBi2aG6AccMX6t9dHlKWKE2xSZRt1m0M9S9HAs=",
+  "Source": "ServicioPersonasApi",
+  "BasePath": "_content/ServicioPersonasApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServicioPersonasApi\\wwwroot",
+      "Source": "ServicioPersonasApi",
+      "ContentRoot": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\",
+      "BasePath": "_content/ServicioPersonasApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\app.js",
+      "SourceId": "ServicioPersonasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\",
+      "BasePath": "_content/ServicioPersonasApi",
+      "RelativePath": "front/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\front\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\index.html",
+      "SourceId": "ServicioPersonasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\",
+      "BasePath": "_content/ServicioPersonasApi",
+      "RelativePath": "front/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\front\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\styles.css",
+      "SourceId": "ServicioPersonasApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\",
+      "BasePath": "_content/ServicioPersonasApi",
+      "RelativePath": "front/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\front\\styles.css"
+    }
+  ]
+}
