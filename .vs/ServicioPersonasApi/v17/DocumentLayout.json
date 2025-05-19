@@ -3,35 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:readme.rm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\wwwroot\\front\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:wwwroot\\front\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\wwwroot\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:wwwroot\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\wwwroot\\front\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:wwwroot\\front\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\servicios\\serviciopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\servicios\\serviciopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:servicios\\serviciopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\modelos\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\modelos\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:modelos\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\modelos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\modelos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:modelos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|c:\\users\\nelson\\desktop\\pruebanttdata\\serviciopersonasapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E15891D-C191-455D-854B-274DCEDEEBEB}|ServicioPersonasApi.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Readme.rm",
+              "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Readme.rm",
+              "RelativeDocumentMoniker": "Readme.rm",
+              "ToolTip": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Readme.rm",
+              "RelativeToolTip": "Readme.rm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-19T16:59:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\app.js",
               "RelativeDocumentMoniker": "wwwroot\\front\\app.js",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\front\\styles.css",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "wwwroot\\front\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T16:44:32.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:44:32.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\wwwroot\\front\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\front\\index.html",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "wwwroot\\front\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-19T16:44:00.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:44:00.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RespuestaApi.cs",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Modelos\\RespuestaApi.cs",
               "RelativeDocumentMoniker": "Modelos\\RespuestaApi.cs",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "Modelos\\RespuestaApi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:35:19.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:35:19.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PersonasController.cs",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Controllers\\PersonasController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "Controllers\\PersonasController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:25:41.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:25:41.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -119,12 +132,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:23:56.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:23:56.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServicioPersonas.cs",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Servicios\\ServicioPersonas.cs",
               "RelativeDocumentMoniker": "Servicios\\ServicioPersonas.cs",
@@ -132,12 +144,11 @@
               "RelativeToolTip": "Servicios\\ServicioPersonas.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:05:13.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:05:13.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PersonaDto.cs",
               "DocumentMoniker": "C:\\Users\\nelson\\Desktop\\pruebaNTTDATA\\ServicioPersonasApi\\Modelos\\PersonaDto.cs",
               "RelativeDocumentMoniker": "Modelos\\PersonaDto.cs",
@@ -145,8 +156,7 @@
               "RelativeToolTip": "Modelos\\PersonaDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:03:38.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T16:03:38.469Z"
             }
           ]
         }

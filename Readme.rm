@@ -1,0 +1,28 @@
+# ServicioPersonasApi
+
+Este proyecto fue desarrollado como parte de una prueba técnica para NTT Data. El objetivo es crear un servicio web en ASP.NET Core 8 que consuma la API [https://randomuser.me](https://randomuser.me) y devuelva una lista de 10 personas con sus datos.
+
+---
+
+## Tecnologías usadas
+
+- ASP.NET Core 8 (C#)
+-  HTML + CSS + JavaScript
+- API externa: https://randomuser.me
+- Swagger para documentación
+
+---
+
+## Estructura
+
+```bash
+ServicioPersonasApi/
+Controllers/			# Controlador principal
+Modelos/              # Clases DTO y mapeos JSON
+Servicios/            # Lógica para consumir la API externa
+wwwroot/front/        # Frontend en HTML, CSS y JS
+Program.cs            # Configuración principal del backend
+
+## Pruebas
+https://localhost:PORT/swagger para probar la API
+https://localhost:PORT/front/index.html para ver el frontend
